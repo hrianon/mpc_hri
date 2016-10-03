@@ -1,0 +1,6 @@
+./simulation results/2016-10-2_12-53-44.txt
+
+Comfortable Program
+
+simTime, model.x, model.u, model.d, model.z, systemTime
+
